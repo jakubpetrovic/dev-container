@@ -1,0 +1,3 @@
+FROM alpine:latest
+RUN apk add git wget curl npm nodejs
+RUN npm install newman newman-reporter-htmlextra -g

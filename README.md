@@ -1,5 +1,5 @@
-# dev-container
-A simple container image with my tools of choice\
+# dev-containers
+A simple container images with my tools of choice\
 the container is ment to be discarded after each use hence the `--rm` option
 
 ### mount current working directory to the container
